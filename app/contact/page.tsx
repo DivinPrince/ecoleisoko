@@ -25,7 +25,7 @@ export default function Page() {
                         <div className="vc_column-inner"><div className="wpb_wrapper">
                           <div className="wpb_text_column wpb_content_element ">
                             <div className="wpb_wrapper">
-                              <h2><strong>Coordonnées de l’école primaire Isoko la Source<br />
+                              <h2><strong>Coordonnées de l'Ecole Internationale Isoko la source<br />
                               </strong></h2>
                               <p>
 
@@ -34,9 +34,9 @@ export default function Page() {
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +250 788 475 248<br />
                                 <a href="mailto:direction.isokolasource@gmail.com" target="_blank" rel="noopener noreferrer">direction.isokolasource@gmail.com</a></p>
                               <p>&nbsp;</p>
-                              <p>Les heures d’ouverture du secrétariat de l’école sont de 7h45 à 11h30 et de 12h45 à 15h30. Vous devez utiliser la porte du service de garde en-dehors de ces heures.</p>
+                              <p>Les heures d'ouverture du secrétariat de l'école sont de 7h45 à 11h30 et de 12h45 à 15h30. Vous devez utiliser la porte du service de garde en-dehors de ces heures.</p>
                               <p><strong>Signaler une absence</strong></p>
-                              <p>Lorsque votre enfant ne peut venir à l’école, vous devez informer l’école en téléphonant au (<strong>+250)&nbsp;783 552 105</strong> <strong>poste 1 </strong></p>
+                              <p>Lorsque votre enfant ne peut venir à l'école, vous devez informer l'école en téléphonant au (<strong>+250)&nbsp;783 552 105</strong> <strong>poste 1 </strong></p>
                               <p><strong>Service de garde</strong></p>
                               <p><strong>+250 788 475 248, </strong><strong>poste 2</strong></p>
                               <p><a href="mailto:isokolasource@gmail.com">isokolasource@gmail.com</a></p>
